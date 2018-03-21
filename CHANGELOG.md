@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.1.6](https://github.com/kaazing/KafkaLoadGenerator/tree/0.1.6) (2018-03-21)
+[Full Changelog](https://github.com/kaazing/KafkaLoadGenerator/compare/0.1.5...0.1.6)
+
+**Merged pull requests:**
+
+- Pass the environment variable [\#7](https://github.com/kaazing/KafkaLoadGenerator/pull/7) ([sidda-at-kaazing](https://github.com/sidda-at-kaazing))
+
 ## [0.1.5](https://github.com/kaazing/KafkaLoadGenerator/tree/0.1.5) (2018-03-21)
 [Full Changelog](https://github.com/kaazing/KafkaLoadGenerator/compare/0.1.4...0.1.5)
 
