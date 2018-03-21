@@ -1,5 +1,12 @@
 # Change Log
 
+## [0.1.7](https://github.com/kaazing/KafkaLoadGenerator/tree/0.1.7) (2018-03-21)
+[Full Changelog](https://github.com/kaazing/KafkaLoadGenerator/compare/0.1.6...0.1.7)
+
+**Merged pull requests:**
+
+- name fix in parameter [\#8](https://github.com/kaazing/KafkaLoadGenerator/pull/8) ([sidda-at-kaazing](https://github.com/sidda-at-kaazing))
+
 ## [0.1.6](https://github.com/kaazing/KafkaLoadGenerator/tree/0.1.6) (2018-03-21)
 [Full Changelog](https://github.com/kaazing/KafkaLoadGenerator/compare/0.1.5...0.1.6)
 
