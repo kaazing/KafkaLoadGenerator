@@ -1,6 +1,6 @@
 FROM maven:3.5.2-jdk-8
 
-#ENV KAFKA_BOOTSTRAP_SERVERS kafka:9092
+ENV KAFKA_BOOTSTRAP_SERVERS kafka.kaaizng.io:9092
 
 # Define working directory.
 ARG      WORKDIR=/opt/kafkaloadgenerator
