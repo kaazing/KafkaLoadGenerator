@@ -4,4 +4,4 @@ logs
 target/
 .classpath
 .project
-.settings
+.settings/
