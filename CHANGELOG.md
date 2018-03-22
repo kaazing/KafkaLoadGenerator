@@ -1,5 +1,8 @@
 # Change Log
 
+## [0.1.8](https://github.com/kaazing/KafkaLoadGenerator/tree/0.1.8) (2018-03-22)
+[Full Changelog](https://github.com/kaazing/KafkaLoadGenerator/compare/0.1.7...0.1.8)
+
 ## [0.1.7](https://github.com/kaazing/KafkaLoadGenerator/tree/0.1.7) (2018-03-21)
 [Full Changelog](https://github.com/kaazing/KafkaLoadGenerator/compare/0.1.6...0.1.7)
 
